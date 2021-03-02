@@ -1,0 +1,21 @@
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+header{
+    background-color: silver;
+    height: 400px;
+}
+
+.gray
+{
+    background-color: silver;
+    height: 400px;
+}
+.red img 
+{
+    width: 150px;
+    border-radius: 50%;
+}
